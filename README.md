@@ -100,4 +100,4 @@ Then open the local Streamlit URL shown in the terminal.
 
 ## Author
 
-Built by Khush.
+Built by Khushi Venkatesh.
