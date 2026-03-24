@@ -20,13 +20,19 @@ This project is valuable because it combines **fast rule-based analysis** with *
 - **Live Demo:** Add your deployed app link here
 - **Video Walkthrough:** Add a Loom or YouTube link here
 
-## Screenshot
+## Screenshots
 
-Add an app screenshot here after uploading it to the repository.
+### Home Interface
 
-```md
 ![Interview Insight UI](./assets/interview-insight-ui.png)
-```
+
+### Example Input
+
+![Example Input](./assets/example-input.png)
+
+### AI Coaching Output
+
+![AI Coaching](./assets/ai-coaching.png)
 
 ## Why This Project Matters
 
