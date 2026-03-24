@@ -17,8 +17,8 @@ This project is valuable because it combines **fast rule-based analysis** with *
 ## Demo
 
 - **GitHub Repository:** [khushiverse/ai-interview-analyser](https://github.com/khushiverse/ai-interview-analyser)
-- **Live Demo:** Add your deployed app link here
-- **Video Walkthrough:** Add a Loom or YouTube link here
+- **Live Demo:** [ai-interview-analyser.streamlit.app](https://ai-interview-analyser.streamlit.app)
+- **Video Walkthrough:** [demo_video.mp4](./assets/demo_video.mp4)
 
 ## Screenshots
 
@@ -33,6 +33,10 @@ This project is valuable because it combines **fast rule-based analysis** with *
 ### AI Coaching Output
 
 ![AI Coaching](./assets/ai-coaching.png)
+
+## Walkthrough Video
+
+[Watch the demo video](./assets/demo_video.mp4)
 
 ## Why This Project Matters
 
