@@ -152,36 +152,6 @@ Then open the local Streamlit URL shown in the terminal.
 - Tell me about a project you are proud of
 - How do you handle pressure or tight deadlines?
 
-## Example Output
-
-### Example Input
-
-```text
-Question: Tell me about yourself
-
-Answer:
-I am a computer science student. I like building projects and working with teams.
-I recently made an AI-based app and learned a lot from it.
-```
-
-### Example Feedback Shape
-
-```md
-### What Works
-- Clear and relevant introduction
-- Mentions projects and teamwork
-
-### What To Improve
-- Add stronger evidence or outcomes
-- Sound more specific and confident
-
-### Better Answer
-I am a computer science student with a strong interest in building practical software solutions...
-```
-
-## Deployment
-
-You can deploy this app using platforms that support Streamlit applications.
 
 ### Streamlit Community Cloud
 
@@ -204,25 +174,6 @@ For any deployment target, make sure:
 - `HF_API_KEY` is configured securely
 - `.env` is **not** committed to the repository
 
-## Contributing
-
-Contributions are welcome.
-
-If you want to contribute:
-
-1. Fork the repository
-2. Create a new branch
-3. Make your changes
-4. Commit clearly
-5. Open a pull request
-
-You can also open an issue for:
-
-- bug reports
-- UI improvements
-- new interview question categories
-- feature requests such as speech-to-text or answer history
-
 ## Notes
 
 - `.env` is ignored using `.gitignore`, so API keys are not pushed to GitHub
@@ -239,11 +190,6 @@ You can also open an issue for:
 - User authentication
 - Progress dashboards
 
-## License
-
-No license file is currently included in this repository.
-
-If you want others to use, modify, or distribute this project clearly, add a `LICENSE` file such as MIT.
 
 ## Author
 
