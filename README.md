@@ -145,16 +145,7 @@ Then open the local Streamlit URL shown in the terminal.
 
 ## Sample Questions
 
-- Tell me about yourself
-- Why should we hire you?
-- What are your strengths?
-- What is your biggest weakness?
-- Describe a challenge you faced and how you handled it
-- Tell me about a time you worked in a team
-- Why do you want this role?
-- Where do you see yourself in 5 years?
-- Tell me about a project you are proud of
-- How do you handle pressure or tight deadlines?
+![Sample Questions](./assets/sample-questions.png)
 
 
 ### Streamlit Community Cloud
